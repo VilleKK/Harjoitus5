@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHarjoitus5", "GitHarjoitus5\GitHarjoitus5.csproj", "{4FFB5405-A125-44B3-8593-5FEAFA3E8C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHarjoitus5Toinenproj", "GitHarjoitus5Toinenproj\GitHarjoitus5Toinenproj.csproj", "{724D6A8E-77EC-4D50-912F-5BCFEFE1DBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFB5405-A125-44B3-8593-5FEAFA3E8C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFB5405-A125-44B3-8593-5FEAFA3E8C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFB5405-A125-44B3-8593-5FEAFA3E8C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFB5405-A125-44B3-8593-5FEAFA3E8C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724D6A8E-77EC-4D50-912F-5BCFEFE1DBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724D6A8E-77EC-4D50-912F-5BCFEFE1DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724D6A8E-77EC-4D50-912F-5BCFEFE1DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724D6A8E-77EC-4D50-912F-5BCFEFE1DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
